@@ -1,0 +1,10 @@
+export const MAP_ON_LOADING = 'MAP_ON_LOADING';
+export const MAP_ON_ACTION_LOADING = 'MAP_ON_ACTION_LOADING';
+
+
+export const MAP_HANDLE_HISTORY = 'MAP_HANDLE_HISTORY';
+export const MAP_HANDLE_LIST = 'MAP_HANDLE_LIST';
+export const MAP_HANDLE_SHOW = 'MAP_HANDLE_SHOW';
+
+
+export const MAP_RESET = 'MAP_RESET';
